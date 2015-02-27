@@ -3,7 +3,6 @@
  Ricky Dua ID-1243947
  Equal Contribution
 */
-package Assignment1;
 
 import java.awt.Color;
 import java.awt.Graphics;
